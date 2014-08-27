@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SiteControlProxy.iml" filepath="$PROJECT_DIR$/SiteControlProxy.iml" group="localproxy" />
+      <module fileurl="file://$PROJECT_DIR$/../google/google.iml" filepath="$PROJECT_DIR$/../google/google.iml" group="localproxy" />
+    </modules>
+  </component>
+</project>
+
